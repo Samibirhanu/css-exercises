@@ -3,13 +3,16 @@
   background: papayawhip;
 }
 .header {
+  padding: 8px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 ul {
   display: flex;
-  gap: 4px;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
   justify-content: flex-start;
 }
 .logo {
