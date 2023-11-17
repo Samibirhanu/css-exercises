@@ -4,9 +4,13 @@
 }
 .header {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 ul {
   display: flex;
+  gap: 4px;
+  justify-content: flex-start;
 }
 .logo {
   font-size: 48px;
