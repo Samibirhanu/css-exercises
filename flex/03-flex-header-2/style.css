@@ -17,6 +17,9 @@ body {
 ul {
   display: flex;
 }
+.break {
+  margin-left: auto;
+}
 
 .profile-image {
   background: rebeccapurple;
