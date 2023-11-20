@@ -32,18 +32,37 @@ a{
   text-decoration: none;
   color:#848b8b;
 }
-
+img{
+  width: 400px;
+}
 ul{
   list-style-type: none;
 }
 
 .header{
   display: flex;
+  padding-right: 30px;
 }
+
 ul{
   display: flex;
   gap: 10px;
 }
 .left-links{
   margin-right: auto;
+}
+
+.footer{
+  display: flex;
+  background-color:#f7f7f7;
+  padding-right: 30px;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+.footer{
+  margin-top: 240px;
 }
