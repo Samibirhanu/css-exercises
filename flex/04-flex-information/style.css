@@ -28,6 +28,9 @@ img {
 }
 
 /* solution */
+body {
+  text-align: center;
+}
 
 .flex-container {
   display: flex;
