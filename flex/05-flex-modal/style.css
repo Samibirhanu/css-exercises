@@ -75,6 +75,21 @@ button.cancel {
 }
 .flex-container{
   display: flex;
-  justify-content: space-between;
+  gap: 20px;
 }
-
+.header{
+  margin-right: auto;
+  font-weight: bold;
+}
+.flex-item{
+  flex-shrink: 0;
+}
+.flex-item.header {
+  align-self: center;
+}
+.text{
+  padding-bottom: 10px;
+}
+.container{
+  padding-left: 60px;
+}
