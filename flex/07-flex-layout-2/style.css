@@ -11,9 +11,10 @@ body {
 }
 
 .footer {
-  height: 45px;
+  height: 60px;
   background: #eee;
   color: darkmagenta;
+  margin-top: 0;
 }
 
 .sidebar {
@@ -71,6 +72,6 @@ a{
 }
 .footer{
   text-align: center;
-  padding-top: 25px;
+  padding-top: 30px;
   margin-top: auto;
 }
