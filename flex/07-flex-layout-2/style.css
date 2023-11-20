@@ -5,13 +5,13 @@ body {
 }
 
 .header {
-  height: 72px;
+  height: 45px;
   background: darkmagenta;
   color: white;
 }
 
 .footer {
-  height: 72px;
+  height: 45px;
   background: #eee;
   color: darkmagenta;
 }
@@ -27,3 +27,14 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
 }
+
+/* SOLUTION */
+
+.header{
+  font-weight: bold;
+  font-size: 26px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+
