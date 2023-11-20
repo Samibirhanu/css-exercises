@@ -68,3 +68,13 @@ button.cancel {
   color: royalblue;
 }
 
+/* solution */
+
+.modal{
+  padding: 15px;
+}
+.flex-container{
+  display: flex;
+  justify-content: space-between;
+}
+
